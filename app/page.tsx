@@ -1,5 +1,5 @@
 // import WorldMap from "./components/Map";
-import CountryMap from "./components/Test";
+import CountryMap from "./components/ClientMap";
 
 
 export default function Home() {
